@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /profile
+Disallow: /favorites
+Disallow: /playlists
+Sitemap: https://gujarati-music-streaming.netlify.app/sitemap.xml
